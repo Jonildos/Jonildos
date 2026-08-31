@@ -82,14 +82,11 @@
 ## 📊 <span style="color: #c678dd;">Estatísticas do GitHub</span>
 
 <div align="center">
-  <!-- Card principal de stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonildos&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&line_height=28&hide=prs&custom_title=Visão%20Geral%20do%20Perfil" alt="Jonas's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonildos&theme=radical" alt="GitHub Stats Card" />
   <br/><br/>
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonildos&layout=compact&theme=radical&hide_border=false&langs_count=7&custom_title=Linguagens%20Principais" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonildos&theme=radical" alt="Linguagens por Repositório" />
   <br/><br/>
-  <!-- Streak de contribuições -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonildos&theme=radical&hide_border=false&date_format=M%20j%2C%20Y&custom_title=Dias%20de%20Código" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonildos&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
