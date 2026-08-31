@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro da Computação em Formação & Desenvolvedor de Software</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Jonas%20Soares&fontSize=28&fontColor=C792EA&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Jonas%20Soares&fontSize=28&fontColor=000000&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -79,9 +79,7 @@
 
 ---
 
-## 📊 <span style="color: #c678dd;">Estatísticas do GitHub</span> (Forçadas)
-
-*Nota: Se os números abaixo estiverem zerados, é porque o GitHub demora para indexar novos perfis. Eles aparecerão em breve.*
+## 📊 <span style="color: #c678dd;">Estatísticas do GitHub</span>
 
 <div align="center">
   <!-- Card principal de stats -->
