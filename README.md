@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Blanp2czZ1dnZ4azc3bnk4aXh1aWc1OXc1Y2c2dWF2N2p3cThpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DRfu758SOV5wY/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150" alt="Pikachu" />
 </p>
 
+<h1 align="center">Olá, Mundo! 👋 Eu sou o Jonas</h1>
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.eu/badge?page_id=SEU-USUARIO-GITHUB.SEU-USUARIO-GITHUB&left_color=ff5959&right_color=3b4cca&title=Treinadores+Visitantes" alt="Contador de visitantes fofinho" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_DO_GITHUB&color=blueviolet&style=flat-square" alt="Contador de Visitantes" />
 </p>
 
 ---
@@ -35,10 +37,15 @@ Além de programar e lidar com circuitos, você vai me encontrar explorando:
 * 📱 **Pokémon GO:** Explorando o mundo real em busca de novas capturas.
 * 🎬 **Criador de Conteúdo:** Produzindo vídeos, roteiros e experimentando novas mídias.
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300px" alt="Game Animation" />
+</p>
+
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   <b>Vamos nos conectar?</b>
   <br><br>
   <a href="https://www.linkedin.com/in/jonas-soares-silva" target="_blank">
