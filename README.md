@@ -1,13 +1,13 @@
 <h1 align="center">⚡ Olá, Mundo! Eu sou o Jonas Soares ⚡</h1>
-<h3 align="center">🚀 Engenheiro da Computação em Formação & Entusiasta de Inteligência Artificial</h3>
+<h3 align="center">🚀 Engenheiro da Computação em Formação & Desenvolvedor de Software</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Bem-vindo%20ao%20meu%20Perfil!&fontSize=24&fontColor=fff&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Jonas%20Soares&fontSize=28&fontColor=FFD700&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonas-soares-silva&style=flat-square&color=blueviolet" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/Status-Evoluindo%20Constantemente-blueviolet?style=flat-square&logo=git&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Jonildos&style=flat-square&color=blueviolet" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Status-Foco%20em%20Programação-success?style=flat-square&logo=git&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Foco-Inovação%20%26%20IA-orange?style=flat-square" alt="Foco" />
 </p>
 
@@ -16,10 +16,10 @@
 ## 💻 <span style="color: #61afef;">Perfil Profissional</span>
 
 <p align="center">
-  <b>Desenvolvedor Front-End & Consultor de Vendas Comerciais</b>
+  <b>Desenvolvedor Front-End & Focado em Soluções de Software</b>
 </p>
 
-> Unindo lógica de sistemas, desenvolvimento web e visão estratégica de negócios para criar soluções eficientes.
+> Unindo lógica de sistemas e desenvolvimento web para criar aplicações eficientes e modernas.
 
 * **Linguagens & Stack:** `Python`, `.NET`, `C#`, `JavaScript`, `HTML5`, `CSS3`
 * **Ferramentas:** `Git`, `VS Code`, `SolidWorks`, `Onshape`, `Ultimaker Cura`
@@ -57,35 +57,22 @@
   Estratégia, exploração e diversão no tempo livre!
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>Pokémon GO</h3>
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRrOXU0Y2lrdTloc3FlbjM5bzY4eWZud3Z1YnExZzRjdW9yOTRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8e1vU3W67M4vL9X9l/giphy.gif" width="220px" alt="Pokemon GO" />
-      </td>
-      <td align="center" width="33%">
-        <h3>Xadrez (Chess)</h3>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl2b3J3ajl6aGZocnFwdmhjMXhrc2M1cGp3aW0wZnl3Mm9tdjJibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w8El9N2x9e12/giphy.gif" width="220px" alt="Xadrez" />
-      </td>
-      <td align="center" width="33%">
-        <h3>Jogos RPG</h3>
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmk1dzR0dmQ5cnRmbzJjdjA5YWMyYnQxa28xb2V1djVha3l0YjJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10JhviFuU2gWIw/giphy.gif" width="220px" alt="Jogos RPG" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pokémon_GO-FF7A00?style=for-the-badge&logo=Pokemon&logoColor=white" alt="Pokemon GO" />
+  <img src="https://img.shields.io/badge/Xadrez_(Chess)-7A5230?style=for-the-badge&logo=chess&logoColor=white" alt="Chess" />
+  <img src="https://img.shields.io/badge/Jogos_RPG-6B46C1?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Jogos RPG" />
+</p>
 
 ---
 
 ## 📊 <span style="color: #c678dd;">Estatísticas do GitHub</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonas-soares-silva&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Jonas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonildos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Jonas's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-soares-silva&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonildos&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-soares-silva&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonildos&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
