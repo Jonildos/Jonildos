@@ -1,24 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150" alt="Pikachu" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="140" alt="Pikachu" />
 </p>
 
 <h1 align="center">Olá, Mundo! 👋 Eu sou o Jonas</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_DO_GITHUB&color=blueviolet&style=flat-square" alt="Contador de Visitantes" />
+  <img src="https://img.shields.io/badge/⚡_Treinadores_Visitantes-000000?style=for-the-badge&color=3b4cca&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Treinando_Hard_Skills-success?style=for-the-badge" />
 </p>
 
 ---
 
 ### 💻 Sobre Mim
-* 🚀 **Área de Estudo:** Focado em Engenharia da Computação, explorando a ponte entre software e hardware.
-* ⚡ **Foco Atual:** Desenvolvimento Front-End, automação com sistemas embarcados e arquitetura de software.
-* 🎯 **Filosofia:** Questionar métodos, buscar evidências e transformar lógica em soluções reais.
+* 🚀 **Formação:** Graduando em **Engenharia da Computação** (Centro Universitário Senac), explorando a intersecção profunda entre software e hardware.
+* ⚡ **Foco Atual:** Desenvolvimento Front-End, automação com sistemas embarcados e arquitetura de software limpa.
+* 🎯 **Filosofia:** Questionar métodos, buscar evidências científicas/técnicas e transformar lógica em soluções reais e funcionais.
 
 ---
 
-### 🛠️ Tecnologias e Frameworks
+### 🛠️ Tech Stack & Ferramentas
 
+#### **Linguagens e Frameworks**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -28,19 +30,35 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
+#### **Hardware, Protótipos & Automação**
+<div align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-D9381E?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+### 📊 Linguagens Mais Utilizadas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonassoares&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
+</div>
+
 ---
 
 ### 🎮 Interesses & Fora do Código
-Além de programar e lidar com circuitos, você vai me encontrar explorando:
-* ⚛️ **Física Quântica:** Curiosidade constante sobre os mistérios fundamentais do universo.
-* 🧩 **Modelagem 3D:** Criando peças, protótipos mecânicos e imprimindo ideias.
-* 📱 **Pokémon GO:** Explorando o mundo real em busca de novas capturas.
-* 🎬 **Criador de Conteúdo:** Produzindo vídeos, roteiros e experimentando novas mídias.
+Além de programar consoles, telas e placas de circuito, você vai me encontrar explorando:
+* ⚛️ **Física Quântica:** Curiosidade constante sobre os mistérios fundamentais e as leis do universo.
+* 🧩 **Modelagem 3D:** Projetando peças estruturais, protótipos mecânicos e trazendo ideias físicas à vida.
+* 📱 **Pokémon GO:** Caçando criaturas e explorando o mundo real ativamente.
+* 🎬 **Criador de Conteúdo:** Roteirizando, editando vídeos e experimentando novas mídias tecnológicas.
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300px" alt="Game Animation" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="320px" alt="Retro Gaming Animation" />
 </p>
 
 <br>
